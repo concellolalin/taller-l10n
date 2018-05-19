@@ -1,2 +1,3 @@
-# taller-l10n
-Taller de tradución de software
+# Taller de tradución de software libre ao galego
+
+Repositorio cos recursos do taller
